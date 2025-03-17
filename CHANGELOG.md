@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-14)
+## Unreleased (2025-03-17)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3938b26`](https://github.com/stdlib-js/stdlib/commit/3938b265e603116448c89fcaa58df70e79d40f59) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`2825b42`](https://github.com/stdlib-js/stdlib/commit/2825b42e8cd7483d15dfed1c6b389bfcb86d7ca0) - **docs:** update related packages sections [(#3898)](https://github.com/stdlib-js/stdlib/pull/3898) _(by stdlib-bot)_
 -   [`143b370`](https://github.com/stdlib-js/stdlib/commit/143b37022fe8b96b30a0b79466e310380ddd2628) - **feat:** add `array/base/unary4d-by` [(#3220)](https://github.com/stdlib-js/stdlib/pull/3220) _(by Abhijit Raut, Athan Reines)_
 
@@ -47,10 +48,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Abhijit Raut
 -   Athan Reines
+-   Gururaj Gurram
 
 </section>
 
